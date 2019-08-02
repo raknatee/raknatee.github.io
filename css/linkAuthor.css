@@ -1,0 +1,13 @@
+.goTop {
+    position: fixed;
+    left: 90vw;
+    top: 90vh;
+    z-index: 50;
+}
+
+.linkBar {
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+    float: right;
+}
