@@ -1,0 +1,29 @@
+@media( max-width:850px) {
+    .aboutMeLayout {
+        /* height: 150%; */
+        grid-template-columns: 1fr;
+        grid-template-rows: 2fr 2fr 1fr;
+        grid-template-areas: "pic" "text" "contant";
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+    .barLayout p {
+        color: #eee;
+        font-size: 1rem;
+    }
+    .aboutMeText {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .aboutMeTextData {
+        margin-top: 10%;
+        margin-bottom: 10%;
+        width: 80%;
+        text-align: center;
+    }
+    .goTop {
+        left: 80vw;
+    }
+}
