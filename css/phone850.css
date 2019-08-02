@@ -8,6 +8,16 @@
         align-items: center;
         position: relative;
     }
+    .barLayout {
+        text-align: center;
+        display: grid;
+        /* align-items: center; */
+        grid-template-columns: 1fr;
+    }
+    .linkBar {
+        width: 100%;
+        justify-content: space-around;
+    }
     .barLayout p {
         color: #eee;
         font-size: 1rem;
@@ -24,6 +34,13 @@
         text-align: center;
     }
     .goTop {
-        left: 80vw;
+        left: 70vw;
+    }
+    .btnColorBar {
+        height: 80%;
+        font-size: .5rem;
+    }
+    .comingSoon p {
+        font-size: 3rem;
     }
 }
