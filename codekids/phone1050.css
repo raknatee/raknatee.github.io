@@ -1,0 +1,27 @@
+@media( max-width:1050px) {
+    h1 {
+        font-size: 2rem;
+    }
+    .grid2 {
+        grid-template-columns: 1fr;
+    }
+    .card {
+        max-width: 60vw;
+    }
+}
+
+@media( max-width:750px) {
+    .header {
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+    }
+    h1 {
+        font-size: 1.5rem;
+    }
+    .grid2 {
+        grid-template-columns: 1fr;
+    }
+    .card {
+        max-width: none;
+    }
+}
