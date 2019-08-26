@@ -1,4 +1,4 @@
-@media( max-width:850px) {
+@media( max-width:1060px) {
     .aboutMeLayout {
         /* height: 150%; */
         grid-template-columns: 1fr;
@@ -16,7 +16,14 @@
     }
     .linkBar {
         width: 100%;
+        height: 10vh;
         justify-content: space-around;
+    }
+    .linkBar a {
+        font-size: 1.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     .barLayout p {
         color: #eee;
