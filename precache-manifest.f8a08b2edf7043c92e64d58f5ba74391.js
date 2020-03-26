@@ -1,7 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "367312f5401be58e007f",
-    "url": "/css/app.cb29ec3f.css"
+    "revision": "a3a9cfb415d13c725a46",
+    "url": "/css/app.7469d2eb.css"
+  },
+  {
+    "revision": "36c8776ee66b40b4175cfc1bb94e275f",
+    "url": "/fonts/SocialicoPlus-Plus.36c8776e.woff"
   },
   {
     "revision": "f139b1c21c7b43ac78fb68aa19986d4e",
@@ -48,12 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/scss.c5e5fadb.png"
   },
   {
-    "revision": "76b737c77831c8e195a36c3bf4418645",
+    "revision": "e52a70a22b5772cbb34d34c2e4c8983b",
     "url": "/index.html"
   },
   {
-    "revision": "367312f5401be58e007f",
-    "url": "/js/app.1d41e925.js"
+    "revision": "a3a9cfb415d13c725a46",
+    "url": "/js/app.49dec868.js"
   },
   {
     "revision": "83cb73285c0996415fb3",
@@ -64,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/robots.txt"
   }
 ]);
